@@ -32,7 +32,7 @@ python hello.py spanish
 Future collaborators can be found [here](https://github.com/sagesheep/hello-network/contributors).
 
 ## License
-It's free to fork and do what you want with it, as the project it's under a  [kopimi](http://www.kopimi.com/) licence.
+The project it's under a  [Attribution 3.0 Unported (CC BY 3.0)](https://creativecommons.org/licenses/by/3.0/) licence.
 
 ## Contributing
 

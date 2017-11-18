@@ -32,7 +32,7 @@ python hello.py spanish
 Future collaborators can be found [here](https://github.com/sagesheep/hello-network/contributors).
 
 ## License
-The project it's under a  [GNU AGPLv3)](https://github.com/sagesheep/hello-network/blob/master/LICENSE.md) licence.
+The project it's under a  [GNU AGPLv3](https://github.com/sagesheep/hello-network/blob/master/LICENSE.md) licence.
 
 ## Contributing
 

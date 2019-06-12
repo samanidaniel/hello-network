@@ -27,12 +27,12 @@ Default language is set to English. You can also change the language by typing i
 python hello.py spanish
 ```
 ## Authors
-* **Daniel Ahmadpour** - *Initial work* - [sagesheep](https://github.com/sagesheep)
+* **Daniel Ahmadpour** - *Initial work* - [samanidaniel](https://github.com/samanidaniel)
 
-Future collaborators can be found [here](https://github.com/sagesheep/hello-network/contributors).
+Future collaborators can be found [here](https://github.com/samanidaniel/hello-network/contributors).
 
 ## License
-The project it's under a  [GNU AGPLv3](https://github.com/sagesheep/hello-network/blob/master/LICENSE.md) licence.
+The project it's under a  [GNU AGPLv3](https://github.com/samanidaniel/hello-network/blob/master/LICENSE.md) licence.
 
 ## Contributing
 

@@ -2,6 +2,7 @@
 import collections
 import sys
 
+
 # Creates an immutible (unchanging) data structure
 # It's great for concurrent programing supprted in Python 3
 Message = collections.namedtuple('Message', [
@@ -41,7 +42,13 @@ def language_exist(language):
 
 
 def language():
-    language = ' '.join(sys.argv[1:])
+    if len(sys.argv) == 1:
+        print("Please select a language")
+        for x in messages:
+            print(x.language)
+        language = input("Enter language: ")
+    else:
+        language = ' '.join(sys.argv[1:])
     if not language_exist(language):
         language = 'english'  # Default language
     return language
@@ -57,10 +64,8 @@ def print_message(language):
         [str(x.message) for x in messages if x.language == language])
     print(message)
 
-
 def main():
     print_message(language())
-
 
 if __name__ == '__main__':
     main()
